@@ -1,7 +1,7 @@
 # projeto-empresa-foguete
--------------------------------------
 
-## Integrantes do grupo GH3 Corp
+
+### Integrantes do grupo GH3 Corp
 
 - [x] Alexandre Pacheco do Couto (85657)
 - [x] Allan Phyllyp Reis (85619)
