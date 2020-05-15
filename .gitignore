@@ -1,0 +1,5 @@
+# ignore all logs
+*.log
+
+# ignote idea folder
+*.idea
